@@ -9,6 +9,7 @@ Cada persona debe agregar su pizza personal al menú, **justo debajo de esta lí
 2. Champiñones
 3. Aceitunas
 4. Salame
+5. Piña
 
 ---
 
