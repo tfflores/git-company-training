@@ -4,11 +4,10 @@ Cada persona debe agregar su pizza personal al menú, **justo debajo de esta lí
 
 <!-- 👇 Agrega tu pizza AQUÍ, siempre en la primera posición del menú -->
 
-## Pizza "La Ejemplo" (por Tomás)
-1. Queso extra
-2. Champiñones
-3. Aceitunas
-
+## Pizza "Solo vendemos hawaiana" (por Tomás)
+1. Piña
+2. Queso
+3. Jamón
 ---
 
 > 💡 Truco del demo: como todos insertan su pizza en el mismo lugar,
