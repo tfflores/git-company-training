@@ -3,7 +3,7 @@
 Estas preguntas tienen UNA sola línea de respuesta. Cada persona debe
 **reemplazar** la respuesta actual por la suya. Que gane la última en hacer merge 😈
 
-### 1. ¿La piña en la pizza: SÍ o NO?
+### 1. ¿Estación favorita: verano, invierno, primavera u otoño?
 Respuesta oficial del equipo: **PENDIENTE**
 
 ### 2. ¿Team perro 🐶 o team gato 🐱?
