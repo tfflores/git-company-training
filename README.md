@@ -12,7 +12,7 @@ crear una rama, hacer cambios, subirlos, abrir un Pull Request y
 
 | Archivo | Misión | Nivel de caos |
 |---|---|---|
-| [muro.md](muro.md) | Agrega tu tarjeta de presentación al final | 🌶️ Bajo |
+| [nomina.md](nomina.md) | Agrega tus datos al final de la nómina | 🌶️ Bajo |
 | [pizzeria.md](pizzeria.md) | Inserta tu pizza favorita en el menú | 🌶️🌶️ Medio |
 | [debates.md](debates.md) | Impón tu opinión reemplazando la respuesta oficial | 🌶️🌶️🌶️ Conflicto garantizado |
 
